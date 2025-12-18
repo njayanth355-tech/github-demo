@@ -1,3 +1,4 @@
 # github-demo
 this is my first repositary
-author-jayanth.n
+<br>
+Author-JAYANTH.N.
